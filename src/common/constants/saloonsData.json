@@ -1,0 +1,184 @@
+{
+  "saloons": [
+    {
+      "id": "71YV93RH",
+      "name": "Sax & Fön",
+      "price": "90",
+      "rate": "4",
+      "feedbacks": "32",
+      "time": "30",
+      "address": "Rådmansgatan 46",
+      "cityData": "113 57 Stockholm",
+      "avatarImage": "/backgroundImage.jpg",
+      "salonOpenTime": {
+        "open": "12:00",
+        "close": "19:00"
+      },
+      "phone": "08-522 389 20",
+      "website": "www.salongweb.se",
+      "description": "Lorem ipsum dolor sit amet, vulputate nunc. Auctor viverra. Ridiculus feugiat nunc porttitor volut pat, acu quis torquent iaculis ultricies massa, duis nun quis que amet."
+    },
+    {
+      "id": "Tq83Hs23",
+      "name": "Hårizont",
+      "price": "100",
+      "rate": "4",
+      "feedbacks": "32",
+      "time": "30",
+      "address": "Rådmansgatan 46",
+      "cityData": "113 57 Stockholm",
+      "avatarImage": "/backgroundImage.jpg",
+      "salonOpenTime": {
+        "open": "12:00",
+        "close": "19:00"
+      },
+      "phone": "08-522 389 20",
+      "website": "www.salongweb.se",
+      "description": "Lorem ipsum dolor sit amet, vulputate nunc. Auctor viverra. Ridiculus feugiat nunc porttitor volut pat, acu quis torquent iaculis ultricies massa, duis nun quis que amet."
+    },
+    {
+      "id": "cT9EfDYe",
+      "name": "Hårhuset",
+      "price": "120",
+      "rate": "4",
+      "feedbacks": "32",
+      "time": "30",
+      "address": "Rådmansgatan 46",
+      "cityData": "113 57 Stockholm",
+      "avatarImage": "/backgroundImage.jpg",
+      "salonOpenTime": {
+        "open": "12:00",
+        "close": "19:00"
+      },
+      "phone": "08-522 389 20",
+      "website": "www.salongweb.se",
+      "description": "Lorem ipsum dolor sit amet, vulputate nunc. Auctor viverra. Ridiculus feugiat nunc porttitor volut pat, acu quis torquent iaculis ultricies massa, duis nun quis que amet."
+    },
+    {
+      "id": "uU1bM746",
+      "name": "Hair & Nu",
+      "price": "320",
+      "rate": "4",
+      "feedbacks": "32",
+      "time": "30",
+      "address": "Rådmansgatan 46",
+      "cityData": "113 57 Stockholm",
+      "avatarImage": "/backgroundImage.jpg",
+      "salonOpenTime": {
+        "open": "12:00",
+        "close": "19:00"
+      },
+      "phone": "08-522 389 20",
+      "website": "www.salongweb.se",
+      "description": "Lorem ipsum dolor sit amet, vulputate nunc. Auctor viverra. Ridiculus feugiat nunc porttitor volut pat, acu quis torquent iaculis ultricies massa, duis nun quis que amet."
+    },
+    {
+      "id": "F2r11FSe",
+      "name": "Hårley Davidson",
+      "price": "320",
+      "rate": "5",
+      "feedbacks": "33",
+      "time": "30",
+      "address": "Rådmansgatan 46",
+      "cityData": "113 57 Stockholm",
+      "avatarImage": "/backgroundImage.jpg",
+      "salonOpenTime": {
+        "open": "12:00",
+        "close": "19:00"
+      },
+      "phone": "08-522 389 20",
+      "website": "www.salongweb.se",
+      "description": "Lorem ipsum dolor sit amet, vulputate nunc. Auctor viverra. Ridiculus feugiat nunc porttitor volut pat, acu quis torquent iaculis ultricies massa, duis nun quis que amet."
+    },
+    {
+      "id": "MICZ6Bc7",
+      "name": "Salong Namn",
+      "price": "320",
+      "rate": "5",
+      "feedbacks": "32",
+      "time": "30",
+      "address": "Rådmansgatan 46",
+      "cityData": "113 57 Stockholm",
+      "avatarImage": "/backgroundImage.jpg",
+      "salonOpenTime": {
+        "open": "12:00",
+        "close": "19:00"
+      },
+      "phone": "08-522 389 20",
+      "website": "www.salongweb.se",
+      "description": "Lorem ipsum dolor sit amet, vulputate nunc. Auctor viverra. Ridiculus feugiat nunc porttitor volut pat, acu quis torquent iaculis ultricies massa, duis nun quis que amet."
+    },
+    {
+      "id": "3a1l57gQ",
+      "name": "Hårley Davidson",
+      "price": "320",
+      "rate": "4",
+      "feedbacks": "32",
+      "time": "30",
+      "address": "Rådmansgatan 46",
+      "cityData": "113 57 Stockholm",
+      "avatarImage": "/backgroundImage.jpg",
+      "salonOpenTime": {
+        "open": "12:00",
+        "close": "19:00"
+      },
+      "phone": "08-522 389 20",
+      "website": "www.salongweb.se",
+      "description": "Lorem ipsum dolor sit amet, vulputate nunc. Auctor viverra. Ridiculus feugiat nunc porttitor volut pat, acu quis torquent iaculis ultricies massa, duis nun quis que amet."
+    },
+    {
+      "id": "cu8kOXh3",
+      "name": "Hårley Davidson",
+      "price": "320",
+      "rate": "4",
+      "feedbacks": "32",
+      "time": "30",
+      "address": "Rådmansgatan 46",
+      "cityData": "113 57 Stockholm",
+      "avatarImage": "/backgroundImage.jpg",
+      "salonOpenTime": {
+        "open": "12:00",
+        "close": "19:00"
+      },
+      "phone": "08-522 389 20",
+      "website": "www.salongweb.se",
+      "description": "Lorem ipsum dolor sit amet, vulputate nunc. Auctor viverra. Ridiculus feugiat nunc porttitor volut pat, acu quis torquent iaculis ultricies massa, duis nun quis que amet."
+    },
+    {
+      "id": "GFADn1jC",
+      "name": "Hårley Davidson",
+      "price": "320",
+      "rate": "4",
+      "feedbacks": "32",
+      "time": "30",
+      "address": "Rådmansgatan 46",
+      "cityData": "113 57 Stockholm",
+      "avatarImage": "/backgroundImage.jpg",
+      "salonOpenTime": {
+        "open": "12:00",
+        "close": "19:00"
+      },
+      "phone": "08-522 389 20",
+      "website": "www.salongweb.se",
+      "description": "Lorem ipsum dolor sit amet, vulputate nunc. Auctor viverra. Ridiculus feugiat nunc porttitor volut pat, acu quis torquent iaculis ultricies massa, duis nun quis que amet."
+    },
+    {
+      "id": "sqyBm4dH",
+      "name": "Hårley Davidson",
+      "price": "320",
+      "rate": "4",
+      "feedbacks": "32",
+      "time": "30",
+      "address": "Rådmansgatan 46",
+      "cityData": "113 57 Stockholm",
+      "avatarImage": "/backgroundImage.jpg",
+      "salonOpenTime": {
+        "open": "12:00",
+        "close": "19:00"
+      },
+      "phone": "08-522 389 20",
+      "website": "www.salongweb.se",
+      "description": "Lorem ipsum dolor sit amet, vulputate nunc. Auctor viverra. Ridiculus feugiat nunc porttitor volut pat, acu quis torquent iaculis ultricies massa, duis nun quis que amet."
+    }
+  ]
+}
